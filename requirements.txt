@@ -1,4 +1,7 @@
 pandas
 scikit-learn
-h20-py
+h2o
+requests
+tabulate
+future
 pandas-profiling
